@@ -1,10 +1,10 @@
-# SUPER MAJOR - Baronissi election day 2k19
+# Fornovo 2019 Phaser js presentation
 
 ## Play
 
-[Play the game](https://supermajor2k19.web.app) (Add it to the homescreen to test the PWA functionality)
+[Play the presentation](https://fornovo-slides.firebaseapp.com/)
 
-![SUPER MAJOR](/src/assets/images/halloffame/bg-halloffame.jpg)
+![presentation](/src/assets/cover.jpg)
 
 ## How To Use
 
@@ -12,7 +12,7 @@ To clone and run this game, you'll need [Git](https://git-scm.com) and [Node.js]
 
 ```bash
 # Clone this repository
-$ git clone --depth 1 https://github.com/sH4rk0/superMajor.git super-major-2k19
+$ git clone --depth 1 https://github.com/sH4rk0/fornovo-presentation.git fornovo-presentation
 
 # Go into the repository
 $ cd super-major-2k19
