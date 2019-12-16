@@ -1,0 +1,21 @@
+export default class Boot extends Phaser.Scene {
+
+    constructor() { super({key: "Boot"}); }
+
+    preload() {}
+
+    create() {
+
+                   let graphics = this.add.graphics();
+                   //square
+                   graphics.fillStyle(0xff0000, 0.8);
+                   graphics.fillRect(32, 32, 256, 256);
+                   
+                   //circle
+                   graphics.fillStyle(0xff0000, 0.8);
+                   graphics.fillCircle(260, 260, 120);
+    }
+
+    update() {}
+
+}
