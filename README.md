@@ -15,7 +15,7 @@ To clone and run this game, you'll need [Git](https://git-scm.com) and [Node.js]
 $ git clone --depth 1 https://github.com/sH4rk0/fornovo-presentation.git fornovo-presentation
 
 # Go into the repository
-$ cd super-major-2k19
+$ cd fornovo-presentation
 
 # Install dependencies
 $ npm install
